@@ -12,7 +12,7 @@
 
 # **Скришнот меню /fbot**
 <p align="center">
-  <img src="https://github.com/Serhiy-Rubin/fish-bot-samp-rp/raw/master/screen/menu.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/Serhiy-Rubin/fish-bot-samp-rp/blob/main/screen/menu.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ## Ссылки
