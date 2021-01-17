@@ -11,3 +11,10 @@
 Активация: /fbot
 
 # **Скришнот меню /fbot**
+<p align="center">
+  <img src="https://github.com/Serhiy-Rubin/fish-bot-samp-rp/raw/master/screen/menu.png" alt="Sublime's custom image"/>
+</p>
+
+## Ссылки
+* [VK: Сергей Мокров](https://vk.com/seryogamokrov)
+* [VK Group: Rubin Mods](https://vk.com/rubin.mods)
